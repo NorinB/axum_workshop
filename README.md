@@ -11,7 +11,7 @@ This includes:
 - Logging
 - Reading the host and port through an environment variable (localhost and i.e. port 3000)
 - Complete the four calls inside the `src/services/handlers.rs` file
-- place the JSON payload represantations into the `src/services/payloads.rs` file as structs, which derive from serde's `Serialize` and `Deserialize`
+- place the JSON payload representations into the `src/services/payloads.rs` file as structs, which derive from serde's `Serialize` and `Deserialize`
 
 TODOs are placed everywhere, where your code is needed, in addition with some constraints the app should comply to.
 
